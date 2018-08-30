@@ -1,0 +1,7 @@
+{
+    "challenge_id" : "nips-2018-avc-untargeted-attack",
+    "grader_id": "nips-2018-avc-untargeted-attack",
+    "authors" : ["Multimedia_Group"],
+    "description" : "untargeted baseline attack based on the BoundaryAttack",
+    "gpu": true
+}
